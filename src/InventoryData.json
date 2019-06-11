@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Fresh Corn - 5 Pk",
+        "desc": "Sourced from local growers Pete & Pete Farms in Tacoma, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2015/05/26/17/42/pop-corn-785074_960_720.jpg",
+        "price": 325
+    },
+    {
+        "title": "Fresh Salmon - 1 lb ",
+        "desc": "Fresh, never frozen sockeye caught daily in Puget Sound, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2018/02/08/12/41/salmon-3139390_960_720.jpg",
+        "price": 1199
+    },
+    {
+        "title": "Fresh Asparagus - 1 lb",
+        "desc": "Sourced from local growers Frothy farms in Ellensburg, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2015/04/26/13/42/vegetable-740446_960_720.jpg",
+        "price": 399
+    },
+    {
+        "title": "Fresh Oranges - 1 lb",
+        "desc": "Sourced from Orange You Glad farms in Chelan, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2014/08/01/08/31/oranges-407429_960_720.jpg",
+        "price": 329
+    },
+    {
+        "title": "Fresh Carrots - 1 lb",
+        "desc": "Sourced from local growers Pete & Pete Farms in Tacoma, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2016/11/23/00/22/agriculture-1851424_960_720.jpg",
+        "price": 249
+    },
+    {
+        "title": "Fresh Eggs - 18 ct",
+        "desc": "Fresh Daily from Egg Zachary Farms in Carnation, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2018/06/29/15/35/egg-3506222_960_720.jpg",
+        "available": true,
+        "price": 425
+    },
+    {
+        "title": "Fresh Apples - 1 lb",
+        "desc": "Sourced from local grower Steve Jobs in Yakima, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2018/08/02/21/51/red-3580560_960_720.jpg",
+        "price": 299
+    },
+    {
+        "title": "Fresh Berries - 1 lb ",
+        "desc": "Sourced from Shortcake Farms in Marysville, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2010/12/13/10/05/background-2277_960_720.jpg",
+        "price": 329
+    },
+    {
+        "title": "Fresh Beef - 1 lb",
+        "desc": "Grass fed, 90% lean from Meat is Moo-rder Farms in Seattle, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2014/06/03/14/29/meat-361270_960_720.jpg",
+        "price": 999
+    },
+    {
+        "title": "Fresh Tomatoes - 1 lb",
+        "desc": "Fresh off the vine from Marinara Farms in Burien, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2014/08/01/08/31/oranges-407429_960_720.jpg",
+        "price": 329
+    },
+    {
+        "title": "Fresh Cucumber - 3 ct",
+        "desc": "Sourced from local growers Pete and Pete farms in Tacoma, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2016/08/12/15/33/cucumbers-1588945_960_720.jpg",
+        "price": 249
+    },
+    {
+        "title": "Fresh Milk - 1 gln",
+        "desc": "Squeezed daily from Udder Destruction Farms in Arlington, Washington.",
+        "image": "https://cdn.pixabay.com/photo/2017/01/18/15/25/milk-can-1990075_960_720.jpg",
+        "price": 299
+    }
+]
